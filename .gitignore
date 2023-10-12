@@ -1,0 +1,17 @@
+# System
+__MACOSX
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.iml
+
+# node
+/node_modules
+package-lock.json
+
+# composer
+/vendor
+composer.lock
